@@ -1,6 +1,6 @@
-# TypeScript Node.js Project
+# TypeScript Node.js Calculator Project
 
-Welcome to the TypeScript Node.js project! This repository contains a sample Node.js project written in TypeScript. Follow the instructions below to clone and run the project locally.
+Welcome to the TypeScript Node.js Calculator project! This repository contains a PIAIC  project written in TypeScript. Follow the instructions below to clone and run the project locally.
 
 ## Prerequisites
 
